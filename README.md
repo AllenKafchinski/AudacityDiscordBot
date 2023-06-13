@@ -30,5 +30,8 @@ pip install -r requirements.txt
 3. Use the .env.template to create a .env file (delete the .template extension from the filename)
 4. Run the bot
 ```bash
+cd bot
+```
+```bash
 pip run bot.py
 ```
