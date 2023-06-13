@@ -21,7 +21,7 @@ Audacity is a community of gamers, streamers, DJ's, and content creators. This b
 Ensure you have Python 3.8 or higher installed on your server.
 1. Open a command line and Clone this repository
 ```bash
-git clone
+git clone https://github.com/AllenKafchinski/AudacityDiscordBot
 ```
 2. Install the dependencies
 ```bash
